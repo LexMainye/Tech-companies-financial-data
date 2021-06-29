@@ -6,3 +6,4 @@ prophet==1.0.1
 cufflinks==0.17.3
 cmdstanpy==0.9.5
 fbprophet==0.7.1
+cmdstanpy==0.9.68
