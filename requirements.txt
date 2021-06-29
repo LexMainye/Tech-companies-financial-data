@@ -4,4 +4,4 @@ yfinance==0.1.59
 plotly==5.1.0
 prophet==1.0.1
 fbprophet==0.7.1
-cmdstanpy==0.9.0
+cmdstanpy==0.9.68
