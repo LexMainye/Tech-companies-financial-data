@@ -2,7 +2,7 @@ streamlit==0.83.0
 DateTime==4.3
 yfinance==0.1.59
 plotly==5.1.0
-fbprophet==0.7.1
+fbprophet
 cmdstanpy
-prophet==1.0.1
+prophet
 holidays==0.11.1
