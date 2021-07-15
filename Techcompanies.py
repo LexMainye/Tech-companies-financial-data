@@ -1,6 +1,6 @@
 # import relevant libraries 
 import streamlit as st 
-from datetime import date
+import datetime
 
 import yfinance as yf
 from fbprophet import Prophet
