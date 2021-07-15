@@ -8,7 +8,7 @@ from fbprophet.plot import plot_plotly
 from plotly import graph_objs as go
 
 # enter start & end date
-START = "2011-01-01"
+START = "2015-01-01"
 TODAY = date.today().strftime("%Y-%m-%d")
 
 # title of webapp 
