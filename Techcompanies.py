@@ -18,7 +18,7 @@ stocks = ("FB","TWTR","AAPL", "MSFT", "AMZN")
 selected_stock =st.selectbox("select dataset for prediction",stocks)
 
 #number of years and periods for prediction
-n_years = st.slider("Years of Prediction:" , 1 , 5)
+n_years = st.slider("Years of Prediction:" , 1 , 10)
 period = n_years * 365 
 
 # caching the data
